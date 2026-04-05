@@ -61,8 +61,6 @@
 
 * `sidePanel` → To display the sidebar UI
 * `storage` → Reserved for future preferences
-* `notifications` → Reserved for alerts (future feature)
-* `alarms` → For background refresh scheduling
 * `host_permissions (Google Sheets)` → To fetch market data
 
 ---

@@ -4,7 +4,7 @@
   "short_name": "Finzo",
   "version": "1.2.0",
   "description": "Track global indices in real time with prices, trends, and 52-week highs/lows in a fast, clean sidebar.",
-  "permissions": ["sidePanel", "storage", "alarms"],  
+  "permissions": ["sidePanel", "storage"],  
   "host_permissions": [
     "https://docs.google.com/spreadsheets/*"
   ],
