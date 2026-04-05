@@ -3,8 +3,9 @@
   "name": "Finzo – Real-time Index Watchlist",
   "short_name": "Finzo",
   "version": "1.2.0",
-  "description": "Track global indices with real-time data, 52-week highs/lows, and daily market insights in a powerful sidebar.",
-  "permissions": ["sidePanel", "storage", "alarms"],  "host_permissions": [
+  "description": "Track global indices in real time with prices, trends, and 52-week highs/lows in a fast, clean sidebar.",
+  "permissions": ["sidePanel", "storage", "alarms"],  
+  "host_permissions": [
     "https://docs.google.com/spreadsheets/*"
   ],
 
