@@ -60,7 +60,6 @@
 ## 🔐 Permissions Used
 
 * `sidePanel` → To display the sidebar UI
-* `storage` → Reserved for future preferences
 * `host_permissions (Google Sheets)` → To fetch market data
 
 ---
